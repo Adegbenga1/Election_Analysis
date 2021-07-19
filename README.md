@@ -14,17 +14,17 @@ statement to compare the number of votes each candidate received were effectivel
 
   Our final Python script delivered the following information: 
   
-    •	Total number of votes cast : 
+    • Total number of votes cast : 
             369,699
             
             
-    •	List of candidates who received votes : 
+   • List of candidates who received votes : 
           Charles Casper Stockham,  
           Diana DeGette and 
           Raymon Anthony Doane
           
           
-    •	Total number of votes each candidate received
+   • Total number of votes each candidate received
           Charles Casper Stockham: 85,201
           Diana DeGette: 272,892
           Raymon Anthony Doane: 11,606
