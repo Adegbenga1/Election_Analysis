@@ -50,3 +50,19 @@ statement to compare the number of votes each candidate received were effectivel
           
     •	The county with the highest turnout
           Denver: 306,055
+![election_results](https://user-images.githubusercontent.com/70987568/126089863-7a2d8ac1-fc9a-4488-a749-547247a62402.png)
+
+# Election Audit Summary
+   This  task determines the winning candidate by the number and percentage of votes.
+   Te election audit summary compares the number of votes each candidate received; Diana DeGett with 272,892 of the total vote has the highest of the total in
+   all the votes with calculated the vote percentages 73.8% . 
+   
+   In addition was very clear that Denver county as the hoighest vote as a region with a significan difference from the votes from other counties(  Jefferson: 10.5%  and 
+   Arapahoe: 6.7% )The winner therefore , based on the votes coming from Denver as county and the total vote accrued , is Diana DeGette
+   
+  The activities above were intitiated and employed the use of a pseudocode process that ensures detailed writing of codes for easier presentation of results to the               nontechnical colleagues and stakeholders
+  When we execute this code, we get the overall election results, each candidate's results, and the winning candidate summary printed to the terminal in VS Code, as well as       saved to the election_results.txt file
+  
+ Most importatntly, the election commission agrees that the scrpts will continously offers the opportunity to add neew election details and still have results in the same   format with little modications and improvement .
+  Therefore, it becomes a vital tools in strategic planning for devvelopment, infrastructure and budget allocations.
+
