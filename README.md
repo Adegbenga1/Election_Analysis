@@ -1,11 +1,19 @@
 # Election_Analysis
+
 #Title : Election Audit and discussion of information needed by the Colorado Board of Elections
+
 #Overview of Election Audit
+
 The project is to  complete the election audit, and discuss the information needed by the Colorado Board of Elections.
-The process was facilitated by employing the technique commonly used by programmers to write steps of their code, which is called pseudocode. In this process;  if statement to get the unique names of the candidates list was created , votes counted  for each candidate in the if statement as we iterate through the rows of the CSV file. Codes for decision statement to compare the number of votes each candidate received were effectively written and used. 
+The process was facilitated by employing the technique commonly used by programmers to write steps of their code, 
+which is called pseudocode. In this process;  if statement to get the unique names of the candidates list was created , 
+votes counted  for each candidate in the if statement as we iterate through the rows of the CSV file. Codes for decision 
+statement to compare the number of votes each candidate received were effectively written and used. 
 
 #Election Audit Results
+
   Our final Python script delivered the following information: 
+  
     •	Total number of votes cast : 
             369,699
             
